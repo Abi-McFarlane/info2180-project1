@@ -24,6 +24,10 @@ header{
     font-size: 18px;
 }
 
+header div.container h1{
+    font-size: 18px;
+}
+
 header div.container{
     display: flex;
     flex-flow: row wrap;
